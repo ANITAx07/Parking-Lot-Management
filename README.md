@@ -1,4 +1,4 @@
-# BRACU_CSE423
+# BRACU_CSE341
   Lab Assignments of Summer'25 (Microprocessor)
 
 ## Project Collaborators
